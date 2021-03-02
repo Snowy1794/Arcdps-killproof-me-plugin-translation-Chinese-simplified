@@ -47,6 +47,9 @@
     [ "SettingsShowHeaderText", "用文字显示替代图标显示" ],
     [ "Alignment", "对齐方式" ],
     [ "SettingsClearCacheText", "清楚缓存" ],
-    [ "SettingsClearCacheTooltip", "清楚缓存并重新读取所有玩家的数据" ]
+    [ "SettingsClearCacheTooltip", "清楚缓存并重新读取所有玩家的数据" ],
+	[ "Left", "居左" ],
+    [ "Center", "居中" ],
+    [ "Right", "居右" ]
   ]
 }
